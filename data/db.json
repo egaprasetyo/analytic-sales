@@ -1,0 +1,704 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "product": "Halibut - Fletches",
+      "date": "2023-02-26",
+      "sales": 61,
+      "revenue": 1917
+    },
+    {
+      "id": 2,
+      "product": "Nantuket Peach Orange",
+      "date": "2023-03-09",
+      "sales": 147,
+      "revenue": 3696
+    },
+    {
+      "id": 3,
+      "product": "Oil - Shortening,liqud, Fry",
+      "date": "2023-02-05",
+      "sales": 96,
+      "revenue": 2866
+    },
+    {
+      "id": 4,
+      "product": "Appetizer - Veg Assortment",
+      "date": "2023-01-31",
+      "sales": 171,
+      "revenue": 4461
+    },
+    {
+      "id": 5,
+      "product": "Club Soda - Schweppes, 355 Ml",
+      "date": "2023-02-17",
+      "sales": 171,
+      "revenue": 2303
+    },
+    {
+      "id": 6,
+      "product": "Creme De Cacao Mcguines",
+      "date": "2023-02-12",
+      "sales": 26,
+      "revenue": 1290
+    },
+    {
+      "id": 7,
+      "product": "Beef - Tenderloin Tails",
+      "date": "2023-01-14",
+      "sales": 194,
+      "revenue": 1474
+    },
+    {
+      "id": 8,
+      "product": "Beef - Ox Tongue",
+      "date": "2023-02-15",
+      "sales": 117,
+      "revenue": 3392
+    },
+    {
+      "id": 9,
+      "product": "Chocolate - Milk Coating",
+      "date": "2023-03-22",
+      "sales": 19,
+      "revenue": 3978
+    },
+    {
+      "id": 10,
+      "product": "Pork - Inside",
+      "date": "2023-03-14",
+      "sales": 51,
+      "revenue": 2393
+    },
+    {
+      "id": 11,
+      "product": "Swiss Chard",
+      "date": "2023-01-09",
+      "sales": 112,
+      "revenue": 3320
+    },
+    {
+      "id": 12,
+      "product": "Goat - Leg",
+      "date": "2023-01-26",
+      "sales": 43,
+      "revenue": 3473
+    },
+    {
+      "id": 13,
+      "product": "Wine - Sauvignon Blanc Oyster",
+      "date": "2023-01-25",
+      "sales": 20,
+      "revenue": 4956
+    },
+    {
+      "id": 14,
+      "product": "Mushroom - Morels, Dry",
+      "date": "2023-01-28",
+      "sales": 69,
+      "revenue": 2153
+    },
+    {
+      "id": 15,
+      "product": "Anchovy Paste - 56 G Tube",
+      "date": "2023-01-12",
+      "sales": 171,
+      "revenue": 1217
+    },
+    {
+      "id": 16,
+      "product": "Tofu - Firm",
+      "date": "2023-03-29",
+      "sales": 135,
+      "revenue": 4940
+    },
+    {
+      "id": 17,
+      "product": "Soup - Knorr, French Onion",
+      "date": "2023-03-24",
+      "sales": 74,
+      "revenue": 4224
+    },
+    {
+      "id": 18,
+      "product": "Snapple Raspberry Tea",
+      "date": "2023-01-27",
+      "sales": 154,
+      "revenue": 3838
+    },
+    {
+      "id": 19,
+      "product": "Lamb - Shoulder, Boneless",
+      "date": "2023-03-27",
+      "sales": 168,
+      "revenue": 3327
+    },
+    {
+      "id": 20,
+      "product": "Sea Urchin",
+      "date": "2023-01-01",
+      "sales": 29,
+      "revenue": 3356
+    },
+    {
+      "id": 21,
+      "product": "Tomatoes - Orange",
+      "date": "2023-01-06",
+      "sales": 198,
+      "revenue": 1421
+    },
+    {
+      "id": 22,
+      "product": "Steamers White",
+      "date": "2023-02-12",
+      "sales": 169,
+      "revenue": 3381
+    },
+    {
+      "id": 23,
+      "product": "Beef - Ox Tongue, Pickled",
+      "date": "2023-02-26",
+      "sales": 85,
+      "revenue": 3326
+    },
+    {
+      "id": 24,
+      "product": "Beef - Inside Round",
+      "date": "2023-01-14",
+      "sales": 80,
+      "revenue": 1957
+    },
+    {
+      "id": 25,
+      "product": "Skirt - 29 Foot",
+      "date": "2023-01-07",
+      "sales": 174,
+      "revenue": 4562
+    },
+    {
+      "id": 26,
+      "product": "Bread Crumbs - Panko",
+      "date": "2023-01-11",
+      "sales": 147,
+      "revenue": 2064
+    },
+    {
+      "id": 27,
+      "product": "Horseradish Root",
+      "date": "2023-01-28",
+      "sales": 191,
+      "revenue": 1818
+    },
+    {
+      "id": 28,
+      "product": "Seedlings - Buckwheat, Organic",
+      "date": "2023-01-17",
+      "sales": 125,
+      "revenue": 3471
+    },
+    {
+      "id": 29,
+      "product": "Aromat Spice / Seasoning",
+      "date": "2023-03-25",
+      "sales": 39,
+      "revenue": 3455
+    },
+    {
+      "id": 30,
+      "product": "Icecream - Dstk Cml And Fdg",
+      "date": "2023-03-09",
+      "sales": 77,
+      "revenue": 1303
+    },
+    {
+      "id": 31,
+      "product": "Nantucket Cranberry Juice",
+      "date": "2023-01-09",
+      "sales": 92,
+      "revenue": 3422
+    },
+    {
+      "id": 32,
+      "product": "Lychee",
+      "date": "2023-01-30",
+      "sales": 140,
+      "revenue": 3434
+    },
+    {
+      "id": 33,
+      "product": "Corn Syrup",
+      "date": "2023-02-18",
+      "sales": 20,
+      "revenue": 3830
+    },
+    {
+      "id": 34,
+      "product": "Pumpkin",
+      "date": "2023-02-09",
+      "sales": 78,
+      "revenue": 2849
+    },
+    {
+      "id": 35,
+      "product": "Wine - Vidal Icewine Magnotta",
+      "date": "2023-01-28",
+      "sales": 97,
+      "revenue": 2922
+    },
+    {
+      "id": 36,
+      "product": "Chicken - White Meat With Tender",
+      "date": "2023-01-31",
+      "sales": 117,
+      "revenue": 2812
+    },
+    {
+      "id": 37,
+      "product": "Caviar - Salmon",
+      "date": "2023-03-19",
+      "sales": 73,
+      "revenue": 3189
+    },
+    {
+      "id": 38,
+      "product": "Nantucket - 518ml",
+      "date": "2023-03-24",
+      "sales": 198,
+      "revenue": 4597
+    },
+    {
+      "id": 39,
+      "product": "Wine - Fontanafredda Barolo",
+      "date": "2023-03-23",
+      "sales": 93,
+      "revenue": 1758
+    },
+    {
+      "id": 40,
+      "product": "Pastry - Chocolate Chip Muffin",
+      "date": "2023-03-24",
+      "sales": 196,
+      "revenue": 2217
+    },
+    {
+      "id": 41,
+      "product": "Vinegar - Balsamic",
+      "date": "2023-02-28",
+      "sales": 32,
+      "revenue": 2747
+    },
+    {
+      "id": 42,
+      "product": "Goat - Whole Cut",
+      "date": "2023-02-25",
+      "sales": 55,
+      "revenue": 2727
+    },
+    {
+      "id": 43,
+      "product": "Cornstarch",
+      "date": "2023-02-18",
+      "sales": 120,
+      "revenue": 1993
+    },
+    {
+      "id": 44,
+      "product": "Pepper - Gypsy Pepper",
+      "date": "2023-03-05",
+      "sales": 182,
+      "revenue": 4143
+    },
+    {
+      "id": 45,
+      "product": "Chervil - Fresh",
+      "date": "2023-01-08",
+      "sales": 113,
+      "revenue": 2873
+    },
+    {
+      "id": 46,
+      "product": "Pepper - Black, Crushed",
+      "date": "2023-01-25",
+      "sales": 41,
+      "revenue": 1809
+    },
+    {
+      "id": 47,
+      "product": "Oil - Safflower",
+      "date": "2023-02-18",
+      "sales": 64,
+      "revenue": 1087
+    },
+    {
+      "id": 48,
+      "product": "Bread - White, Sliced",
+      "date": "2023-01-01",
+      "sales": 34,
+      "revenue": 1400
+    },
+    {
+      "id": 49,
+      "product": "Cookies - Assorted",
+      "date": "2023-01-24",
+      "sales": 152,
+      "revenue": 4132
+    },
+    {
+      "id": 50,
+      "product": "Shrimp - Black Tiger 26/30",
+      "date": "2023-02-01",
+      "sales": 35,
+      "revenue": 3166
+    },
+    {
+      "id": 51,
+      "product": "Lobak",
+      "date": "2023-01-07",
+      "sales": 82,
+      "revenue": 4379
+    },
+    {
+      "id": 52,
+      "product": "Sour Puss - Tangerine",
+      "date": "2023-03-24",
+      "sales": 31,
+      "revenue": 2505
+    },
+    {
+      "id": 53,
+      "product": "Pasta - Lasagne, Fresh",
+      "date": "2023-01-20",
+      "sales": 152,
+      "revenue": 4741
+    },
+    {
+      "id": 54,
+      "product": "Oregano - Dry, Rubbed",
+      "date": "2023-02-04",
+      "sales": 95,
+      "revenue": 3304
+    },
+    {
+      "id": 55,
+      "product": "Rice Pilaf, Dry,package",
+      "date": "2023-03-22",
+      "sales": 130,
+      "revenue": 3465
+    },
+    {
+      "id": 56,
+      "product": "Lady Fingers",
+      "date": "2023-03-15",
+      "sales": 13,
+      "revenue": 2445
+    },
+    {
+      "id": 57,
+      "product": "Tuna - Canned, Flaked, Light",
+      "date": "2023-03-02",
+      "sales": 58,
+      "revenue": 2731
+    },
+    {
+      "id": 58,
+      "product": "Veal - Knuckle",
+      "date": "2023-01-02",
+      "sales": 135,
+      "revenue": 2798
+    },
+    {
+      "id": 59,
+      "product": "Sauce - Soya, Dark",
+      "date": "2023-01-09",
+      "sales": 194,
+      "revenue": 3123
+    },
+    {
+      "id": 60,
+      "product": "Cornflakes",
+      "date": "2023-03-08",
+      "sales": 197,
+      "revenue": 3836
+    },
+    {
+      "id": 61,
+      "product": "Coriander - Seed",
+      "date": "2023-03-17",
+      "sales": 178,
+      "revenue": 4130
+    },
+    {
+      "id": 62,
+      "product": "Wine - White, French Cross",
+      "date": "2023-01-17",
+      "sales": 139,
+      "revenue": 2053
+    },
+    {
+      "id": 63,
+      "product": "Lemon Pepper",
+      "date": "2023-01-01",
+      "sales": 110,
+      "revenue": 1992
+    },
+    {
+      "id": 64,
+      "product": "Cocoa Feuilletine",
+      "date": "2023-03-09",
+      "sales": 84,
+      "revenue": 1468
+    },
+    {
+      "id": 65,
+      "product": "Pears - Bosc",
+      "date": "2023-02-28",
+      "sales": 35,
+      "revenue": 2325
+    },
+    {
+      "id": 66,
+      "product": "Dill - Primerba, Paste",
+      "date": "2023-02-10",
+      "sales": 27,
+      "revenue": 2462
+    },
+    {
+      "id": 67,
+      "product": "Chicken - Diced, Cooked",
+      "date": "2023-01-10",
+      "sales": 48,
+      "revenue": 4284
+    },
+    {
+      "id": 68,
+      "product": "Knife Plastic - White",
+      "date": "2023-03-04",
+      "sales": 54,
+      "revenue": 3598
+    },
+    {
+      "id": 69,
+      "product": "Wine - Chateauneuf Du Pape",
+      "date": "2023-01-05",
+      "sales": 84,
+      "revenue": 4531
+    },
+    {
+      "id": 70,
+      "product": "Chocolate - Milk, Callets",
+      "date": "2023-01-05",
+      "sales": 54,
+      "revenue": 3075
+    },
+    {
+      "id": 71,
+      "product": "Quail - Whole, Bone - In",
+      "date": "2023-01-03",
+      "sales": 150,
+      "revenue": 4672
+    },
+    {
+      "id": 72,
+      "product": "Leeks - Large",
+      "date": "2023-03-19",
+      "sales": 142,
+      "revenue": 1666
+    },
+    {
+      "id": 73,
+      "product": "Soup Knorr Chili With Beans",
+      "date": "2023-01-26",
+      "sales": 173,
+      "revenue": 2963
+    },
+    {
+      "id": 74,
+      "product": "Butter Sweet",
+      "date": "2023-01-20",
+      "sales": 12,
+      "revenue": 4223
+    },
+    {
+      "id": 75,
+      "product": "Wine - Beaujolais Villages",
+      "date": "2023-02-18",
+      "sales": 160,
+      "revenue": 2410
+    },
+    {
+      "id": 76,
+      "product": "Juice - Ocean Spray Kiwi",
+      "date": "2023-02-24",
+      "sales": 47,
+      "revenue": 2847
+    },
+    {
+      "id": 77,
+      "product": "Pasta - Penne, Rigate, Dry",
+      "date": "2023-02-01",
+      "sales": 160,
+      "revenue": 4807
+    },
+    {
+      "id": 78,
+      "product": "Duck - Fat",
+      "date": "2023-02-19",
+      "sales": 56,
+      "revenue": 3577
+    },
+    {
+      "id": 79,
+      "product": "Cinnamon Buns Sticky",
+      "date": "2023-02-17",
+      "sales": 43,
+      "revenue": 2593
+    },
+    {
+      "id": 80,
+      "product": "Beef - Tenderloin",
+      "date": "2023-03-14",
+      "sales": 135,
+      "revenue": 1867
+    },
+    {
+      "id": 81,
+      "product": "Energy Drink Bawls",
+      "date": "2023-02-23",
+      "sales": 46,
+      "revenue": 3938
+    },
+    {
+      "id": 82,
+      "product": "Port - 74 Brights",
+      "date": "2023-02-10",
+      "sales": 82,
+      "revenue": 4238
+    },
+    {
+      "id": 83,
+      "product": "Wine - Valpolicella Masi",
+      "date": "2023-03-20",
+      "sales": 199,
+      "revenue": 2696
+    },
+    {
+      "id": 84,
+      "product": "Stock - Veal, Brown",
+      "date": "2023-02-09",
+      "sales": 154,
+      "revenue": 4396
+    },
+    {
+      "id": 85,
+      "product": "Bread - Crumbs, Bulk",
+      "date": "2023-03-09",
+      "sales": 194,
+      "revenue": 4892
+    },
+    {
+      "id": 86,
+      "product": "Muffin - Carrot Individual Wrap",
+      "date": "2023-01-16",
+      "sales": 97,
+      "revenue": 1013
+    },
+    {
+      "id": 87,
+      "product": "Cabbage Roll",
+      "date": "2023-03-19",
+      "sales": 178,
+      "revenue": 4519
+    },
+    {
+      "id": 88,
+      "product": "Kaffir Lime Leaves",
+      "date": "2023-01-27",
+      "sales": 71,
+      "revenue": 1933
+    },
+    {
+      "id": 89,
+      "product": "Chicken - Tenderloin",
+      "date": "2023-03-17",
+      "sales": 92,
+      "revenue": 2614
+    },
+    {
+      "id": 90,
+      "product": "Langers - Mango Nectar",
+      "date": "2023-03-12",
+      "sales": 96,
+      "revenue": 4755
+    },
+    {
+      "id": 91,
+      "product": "Lamb Shoulder Boneless Nz",
+      "date": "2023-03-04",
+      "sales": 195,
+      "revenue": 3874
+    },
+    {
+      "id": 92,
+      "product": "Container - Clear 32 Oz",
+      "date": "2023-02-22",
+      "sales": 55,
+      "revenue": 1565
+    },
+    {
+      "id": 93,
+      "product": "Uniform Linen Charge",
+      "date": "2023-03-19",
+      "sales": 174,
+      "revenue": 3068
+    },
+    {
+      "id": 94,
+      "product": "Table Cloth 54x54 White",
+      "date": "2023-02-03",
+      "sales": 165,
+      "revenue": 2792
+    },
+    {
+      "id": 95,
+      "product": "Muffin Mix - Lemon Cranberry",
+      "date": "2023-01-29",
+      "sales": 191,
+      "revenue": 1248
+    },
+    {
+      "id": 96,
+      "product": "Sprouts - Baby Pea Tendrils",
+      "date": "2023-02-06",
+      "sales": 168,
+      "revenue": 1823
+    },
+    {
+      "id": 97,
+      "product": "Absolut Citron",
+      "date": "2023-03-05",
+      "sales": 54,
+      "revenue": 3297
+    },
+    {
+      "id": 98,
+      "product": "Sole - Iqf",
+      "date": "2023-02-15",
+      "sales": 92,
+      "revenue": 3961
+    },
+    {
+      "id": 99,
+      "product": "Wine - Prosecco Valdobiaddene",
+      "date": "2023-01-07",
+      "sales": 120,
+      "revenue": 4505
+    },
+    {
+      "id": 100,
+      "product": "Turkey Tenderloin Frozen",
+      "date": "2023-01-10",
+      "sales": 104,
+      "revenue": 3378
+    }
+  ]
+}
